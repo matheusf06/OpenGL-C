@@ -1,5 +1,5 @@
 #include <windows.h>
-#include <glut.h>
+#include <.\GLUT\include\GL\glut.h>
 #include <stdlib.h>
 #include <stdio.h>
 
